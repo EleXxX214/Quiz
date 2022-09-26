@@ -1,0 +1,18 @@
+[
+    {
+        "pytanie":"Ile to 2+2?",
+        "a":4,
+        "b":5,
+        "c":6,
+        "d":7,
+        "prawidlowa_odpowiedz":"a"
+    },
+    {
+        "pytanie":"Stolica Polski to:",
+        "a":"Kraków",
+        "b":"Poznań",
+        "c":"Warszawa",
+        "d":"Łódź",
+        "prawidlowa_odpowiedz":"c"
+    }
+]
